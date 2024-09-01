@@ -8,14 +8,6 @@ I'm a passionate B.Tech Computer Science student with a love for solving complex
 - **Databases:** SQLite, MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code
 
-## 🚀 Projects
-
-### 🎮 [Simon Game](https://github.com/AdityaShenoy2302/simon-game)
-A classic Simon game implemented using HTML, CSS, and JavaScript. Test your memory and reflexes in this fun and interactive game!
-
-### 🔐 [Password Manager](https://github.com/AdityaShenoy2302/password-manager)
-A Python project using Tkinter and SQLite to manage passwords securely. Features encryption using the cryptography library.
-
 ## 🎓 Education
 - **B.Tech in Computer Science**  
   [PES University], [2022-2026]
