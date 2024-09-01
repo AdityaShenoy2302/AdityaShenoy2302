@@ -21,7 +21,7 @@ A Python project using Tkinter and SQLite to manage passwords securely. Features
   [PES University], [2022-2026]
 
 ## 🏀 Extracurriculars
-- University Basketball Team Member 🏀
+- Former member of the University Basketball Team 🏀
 - Volunteered in the College Fest Disciplinary Committee 🎉
 
 ## 🏆 LeetCode
