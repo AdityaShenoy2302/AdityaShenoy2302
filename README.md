@@ -3,10 +3,12 @@
 I'm a passionate B.Tech Computer Science student with a love for solving complex problems through code. My journey in tech has led me to explore various areas, from web development to algorithm optimization. Here, you'll find a collection of my projects and contributions.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C, Python, Java, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, NodeJS, ExpressJS, Mongoose, Bootstrap, Tailwind, Tkinter
-- **Databases:** SQLite, MySQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, Visual Studio Code
+- **Languages:** Java, Python, C, JavaScript, SQL, HTML/CSS
+- **AI/ML Stack:** Pandas, NumPy, NLP, SpaCy, Hugging Face, FAISS, LangChain, Prompt Engineering, LLM Agent,
+ Routing, RAG, Ollama, OpenAI API, Groq API, YOLOv8, OpenCV
+- **Web Development:** React, Node.js, Express.js, EJS, Streamlit, Bootstrap, Tailwind CSS, Material-UI
+- **Databases:** MongoDB, SQLite, MySQL, FAISS, Chroma DB
+- **Dev Tools & Platforms:** Docker, Git, GitHub, Postman, VS Code, PyCharm, Google Colab, Kaggle
 
 ## 🎓 Education
 - **B.Tech in Computer Science**  
