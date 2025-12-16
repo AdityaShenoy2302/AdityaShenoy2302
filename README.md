@@ -1,18 +1,36 @@
 # Hi there! 👋 I'm [Aditya Shenoy]
 
-I'm a passionate B.Tech Computer Science student with a love for solving complex problems through code. My journey in tech has led me to explore various areas, from web development to algorithm optimization. Here, you'll find a collection of my projects and contributions.
+Computer Science undergraduate with hands-on experience building GenAI and backend systems. Worked on production-grade RAG pipelines using LLMs (LLaMA 3 via AWS Bedrock), FAISS, and Hugging Face embeddings, along with scalable REST APIs in Node.js and Flask. Strong foundation in software engineering, system design, and applied machine learning, with interests in GenAI, backend development, and real-world AI deployment.
 
-## 🛠️ Technologies & Tools
-- **Languages:** Java, Python, C, JavaScript, SQL, HTML/CSS
-- **AI/ML Stack:** Pandas, NumPy, NLP, SpaCy, Hugging Face, FAISS, LangChain, Prompt Engineering, LLM Agent,
- Routing, RAG, Ollama, OpenAI API, Groq API, YOLOv8, OpenCV
-- **Web Development:** React, Node.js, Express.js, EJS, Streamlit, Bootstrap, Tailwind CSS, Material-UI
-- **Databases:** MongoDB, SQLite, MySQL, FAISS, Chroma DB
-- **Dev Tools & Platforms:** Docker, Git, GitHub, Postman, VS Code, PyCharm, Google Colab, Kaggle
+
+## 🛠️ Technical Skills
+
+### **Languages**
+Java • Python • C • JavaScript • SQL • HTML/CSS
+
+### **AI/ML & GenAI**
+- **Frameworks**: PyTorch • TensorFlow • OpenCV • Hugging Face Transformers
+- **Libraries**: Pandas • NumPy • Seaborn • LangChain
+- **Specializations**: NLP • RAG Pipelines • Prompt Engineering • Computer Vision (YOLOv8)
+- **Tools**: Ollama • FAISS • ChromaDB • AWS Bedrock
+
+### **Web Development**
+- **Frontend**: React • Bootstrap • Tailwind CSS • Material-UI • EJS
+- **Backend**: Node.js • Express.js • Flask
+- **Databases**: MySQL • MongoDB • SQLite • Redis
+
+### **Developer Tools**
+Docker • Git • GitHub • Postman
 
 ## 🎓 Education
-- **B.Tech in Computer Science**  
+- **B.Tech in Computer Science and Engineering**  
   [PES University], [2022-2026]
+
+## 📈 GitHub Stats
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaShenoy2302&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaShenoy2302&layout=compact&theme=radical&hide_border=true)
 
 ## 🏀 Extracurriculars
 - Former member of the University Basketball Team 🏀
@@ -24,6 +42,5 @@ I actively solve problems on [LeetCode](https://leetcode.com/AdityaShenoy2302) t
 ## 📫 Get in Touch
 - **Email:** [adityashenoy2004@gmail.com](mailto:adityashenoy2004@gmail.com)
 - **LinkedIn:** [linkedin.com/in/aditya-shenoy-425661253](https://linkedin.com/in/aditya-shenoy-425661253)
-- **GitHub:** [github.com/AdityaShenoy2302](https://github.com/AdityaShenoy2302)
 
 Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas.
