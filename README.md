@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm [Aditya Shenoy]
 
-Computer Science undergraduate with hands-on experience building GenAI and backend systems. Worked on production-grade RAG pipelines using LLMs (LLaMA 3 via AWS Bedrock), FAISS, and Hugging Face embeddings, along with scalable REST APIs in Node.js and Flask. Strong foundation in software engineering, system design, and applied machine learning, with interests in GenAI, backend development, and real-world AI deployment.
+Computer Science undergraduate with hands-on experience building GenAI and backend systems. Worked on production-grade RAG pipelines using LLMs (LLaMA 3 via AWS Bedrock), FAISS, and Hugging Face embeddings, along with scalable REST APIs in Node.js and Flask. Proficient in software development, system design, and applied machine learning, with interests in ML/GenAI, backend development, and problem solving.
 
 
 ## 🛠️ Technical Skills
