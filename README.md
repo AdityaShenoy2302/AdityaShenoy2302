@@ -22,6 +22,9 @@ Computer Science undergraduate focused on AI systems, backend engineering, and p
 
 ## Experience
 
+### SDE - 1 | Amadeus 
+Jul. 2026 - current | Bangalore
+
 ### AI Software Engineer Intern | 4Good.AI
 Jan. 2026 - Jun. 2026 | Bangalore
 
