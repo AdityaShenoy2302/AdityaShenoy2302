@@ -21,7 +21,7 @@ I enjoy working on GenAI applications, LLM-powered tools, full-stack systems, an
 Python • Java • C • JavaScript • SQL • HTML • CSS
 
 ### AI / ML / GenAI
-PyTorch • TensorFlow • OpenCV • Hugging Face • LangChain • NLP • RAG • Prompt Engineering • FAISS • ChromaDB • Ollama • AWS Bedrock
+PyTorch • OpenCV • Hugging Face • LangChain • NLP • RAG • Prompt Engineering • FAISS • ChromaDB • Ollama • AWS Bedrock
 
 ### Web Development
 React • Bootstrap • Tailwind CSS • Node.js • Express.js • Flask • FastAPI • MySQL • MongoDB • SQLite • Redis
@@ -37,26 +37,11 @@ Data Structures • Algorithms • Competitive Programming • System Design fun
 - [nutrition-assistant](https://github.com/AdityaShenoy2302/nutrition-assistant) — AI-powered nutrition and health recommendation app
 - [food-order-system](https://github.com/AdityaShenoy2302/food-order-system) — full-stack food ordering platform
 - [price-predictor](https://github.com/AdityaShenoy2302/price-predictor) — data-driven price prediction project
-- [password-manager](https://github.com/AdityaShenoy2302/password-manager) — secure password management app
-- [weather-app](https://github.com/AdityaShenoy2302/weather-app) — weather dashboard with live external API integration
-- [wanderlust](https://github.com/AdityaShenoy2302/wanderlust) — travel / destination web application
-- [fastapi-tutorial](https://github.com/AdityaShenoy2302/fastapi-tutorial) — FastAPI learning and practical examples
-- [simon-game](https://github.com/AdityaShenoy2302/simon-game) — interactive browser game built with frontend fundamentals
 
 ## Research & Publication
 
 - Published a research paper in the IEEE CSPA 2026 conference
 - DOI: [10.1109/CSPA68262.2026.11517886](https://doi.org/10.1109/CSPA68262.2026.11517886)
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaShenoy2302&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaShenoy2302&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ## Highlights
 
