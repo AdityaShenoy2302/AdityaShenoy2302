@@ -25,19 +25,12 @@ Computer Science undergraduate focused on AI systems, backend engineering, and p
 ### AI Software Engineer Intern | 4Good.AI
 Jan. 2026 - Jun. 2026 | Bangalore
 
-- Consolidated 2 production microservices into a single service boundary, reducing network I/O overhead by 50%. Optimized the CNN inference platform through ARM64 NVIDIA DGX Spark migration, adaptive GPU-aware batching, and a health-aware distributed dispatcher for parallel DGX inference, improving throughput by nearly 3x.
-- Led a team of 5 to build production observability for AI systems using OpenTelemetry, Grafana, Prometheus, Loki, and Tempo. Delivered centralized dashboards for metrics, logs, and distributed tracing.
-- Engineered an automated LLM experimentation pipeline with data contracts, metadata-driven dataset selection, and a Streamlit UI. The system ensured full reproducibility via seed-based dataset loading for fair model comparisons, while checkpointing drastically cut token costs by eliminating redundant inferences.
-- Eliminated manual workflow management by implementing a high-level orchestration method that abstracts workflow selection, page-level concurrency, and result aggregation behind a single API entry point.
-- Enhanced production AI reliability via deterministic orchestration, structured outputs, self-correction, and automated validation. Integrated DSPy-based prompt optimization to mitigate model drift.
-- Established production-grade CI/CD workflows incorporating semantic versioning, SBOM generation, reproducible builds, and service capacity profiling for Kubernetes resource planning and scalability.
+Built and optimized production AI systems by consolidating microservices (50% lower network I/O), improving CNN inference throughput by nearly 3x on ARM64 NVIDIA DGX infrastructure, and leading observability for AI services with OpenTelemetry, Grafana, Prometheus, Loki, and Tempo. I also developed reproducible LLM experimentation and orchestration workflows, improved model reliability with DSPy-based optimization and validation, and set up production CI/CD with semantic versioning, SBOMs, reproducible builds, and Kubernetes capacity profiling.
 
 ### Software Developer Intern | Capsdata Technologies Pvt. Ltd.
 Jun. 2025 - Aug. 2025 | Remote
 
-- Built an end-to-end resume parsing and job-matching platform serving multi-format uploads, using React.js for the frontend and Flask and Sails.js for the backend.
-- Implemented a RAG pipeline with AWS Bedrock (LLaMA 3), FAISS, and Hugging Face embeddings for semantic search and LLM-powered inference.
-- Designed dual-write RESTful ingestion APIs that store structured fields in MongoDB and vector embeddings in FAISS, supporting hybrid search.
+Built an end-to-end resume parsing and job-matching platform using React.js, Flask, and Sails.js, and implemented a RAG pipeline with AWS Bedrock (LLaMA 3), FAISS, and Hugging Face embeddings for semantic search and LLM inference. I also designed dual-write REST APIs that stored structured data in MongoDB and vector embeddings in FAISS to support hybrid search.
 
 ## Education
 
@@ -59,4 +52,3 @@ IEEE · May 2026
 - Email: [adityashenoy2004@gmail.com](mailto:adityashenoy2004@gmail.com)
 - LinkedIn: [linkedin.com/in/aditya-shenoy](https://linkedin.com/in/aditya-shenoy)
 - GitHub: [github.com/AdityaShenoy2302](https://github.com/AdityaShenoy2302)
-
