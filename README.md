@@ -31,19 +31,12 @@ Computer Science undergraduate focused on AI systems, backend engineering, and p
 ### AI Software Engineer Intern | 4Good.AI
 Jan. 2026 - Jun. 2026 | Bangalore
 
-- Consolidated 2 production microservices into a single service boundary, reducing network I/O overhead by 50%. Optimized the CNN inference platform through ARM64 NVIDIA DGX Spark migration, adaptive GPU-aware batching, and a health-aware distributed dispatcher for parallel DGX inference, improving throughput by nearly 3x.
-- Led a team of 5 to build production observability for AI systems using OpenTelemetry, Grafana, Prometheus, Loki, and Tempo. Delivered centralized dashboards for metrics, logs, and distributed tracing.
-- Engineered an automated LLM experimentation pipeline with data contracts, metadata-driven dataset selection, and a Streamlit UI. The system ensured full reproducibility via seed-based dataset loading for fair model comparisons, while checkpointing drastically cut token costs by eliminating redundant inferences.
-- Eliminated manual workflow management by implementing a high-level orchestration method that abstracts workflow selection, page-level concurrency, and result aggregation behind a single API entry point.
-- Enhanced production AI reliability via deterministic orchestration, structured outputs, self-correction, and automated validation. Integrated DSPy-based prompt optimization to mitigate model drift.
-- Established production-grade CI/CD workflows incorporating semantic versioning, SBOM generation, reproducible builds, and service capacity profiling for Kubernetes resource planning and scalability.
+Consolidated two production microservices into a single service boundary to reduce network I/O overhead by 50%, and optimized the CNN inference platform through ARM64 NVIDIA DGX Spark migration, adaptive GPU-aware batching, and a health-aware distributed dispatcher for parallel DGX inference, improving throughput by nearly 3x; led a team of five to deliver production observability for AI systems using OpenTelemetry, Grafana, Prometheus, Loki, and Tempo with centralized dashboards for metrics, logs, and distributed tracing; engineered an automated LLM experimentation pipeline with data contracts, metadata-driven dataset selection, and a Streamlit UI for seed-based reproducibility and checkpointing that cut token costs by eliminating redundant inferences; eliminated manual workflow management via a high-level orchestration API for workflow selection, page-level concurrency, and result aggregation; improved production AI reliability with deterministic orchestration, structured outputs, self-correction, automated validation, and DSPy-based prompt optimization to mitigate model drift; and established production-grade CI/CD with semantic versioning, SBOM generation, reproducible builds, and service capacity profiling for Kubernetes planning and scalability.
 
 ### Software Developer Intern | Capsdata Technologies Pvt. Ltd.
 Jun. 2025 - Aug. 2025 | Remote
 
-- Built an end-to-end resume parsing and job-matching platform serving multi-format uploads, using React.js for the frontend and Flask and Sails.js for the backend.
-- Implemented a RAG pipeline with AWS Bedrock (LLaMA 3), FAISS, and Hugging Face embeddings for semantic search and LLM-powered inference.
-- Designed dual-write RESTful ingestion APIs that store structured fields in MongoDB and vector embeddings in FAISS, supporting hybrid search.
+Built an end-to-end resume parsing and job-matching platform for multi-format uploads using React.js on the frontend with Flask and Sails.js services on the backend, implemented a RAG pipeline with AWS Bedrock (LLaMA 3), FAISS, and Hugging Face embeddings for semantic search and LLM-powered inference, and designed dual-write RESTful ingestion APIs to store structured fields in MongoDB and vector embeddings in FAISS to enable hybrid search.
 
 ## Education
 
@@ -83,4 +76,3 @@ Node.js, Express.js, MongoDB, Redis, Docker
 - Email: [adityashenoy2004@gmail.com](mailto:adityashenoy2004@gmail.com)
 - LinkedIn: [linkedin.com/in/aditya-shenoy](https://linkedin.com/in/aditya-shenoy)
 - GitHub: [github.com/AdityaShenoy2302](https://github.com/AdityaShenoy2302)
-
