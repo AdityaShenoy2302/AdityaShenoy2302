@@ -1,65 +1,56 @@
-# Hi, I'm Aditya Shenoy 👋
+# Hi there! 👋 I'm Aditya Shenoy
 
-A Computer Science and Engineering student passionate about building impactful software at the intersection of AI, backend engineering, and product development.
+Computer Science undergraduate focused on Generative AI, backend systems, and building practical software solutions.
 
-I enjoy working on GenAI applications, LLM-powered tools, full-stack systems, and real-world projects that solve meaningful problems.
+## Education
+- B.Tech in Computer Science and Engineering
+- PES University (2022–2026)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI%2FML+Enthusiast;Full-Stack+Developer;GenAI+Builder" alt="Typing SVG" />
-</p>
-
-## About Me
-
-- B.Tech in Computer Science and Engineering, PES University (2022–2026)
-- Interested in AI/ML, Generative AI, NLP, and scalable backend systems
-- Building projects around LLMs, RAG pipelines, predictive modeling, and web applications
-- Active in problem-solving, learning, and building full-stack products
-
-## Tech Stack
+## Technical Skills
 
 ### Languages
-Python • Java • C • JavaScript • SQL • HTML • CSS
+Java • Python • C • JavaScript • SQL • HTML/CSS
 
-### AI / ML / GenAI
-PyTorch • OpenCV • Hugging Face • LangChain • NLP • RAG • Prompt Engineering • FAISS • ChromaDB • Ollama • AWS Bedrock
+### AI/ML & GenAI
+- Frameworks: PyTorch • TensorFlow • OpenCV • Hugging Face Transformers
+- Libraries: Pandas • NumPy • Seaborn • LangChain
+- Specializations: NLP • RAG Pipelines • Prompt Engineering • Computer Vision (YOLOv8)
+- Tools: Ollama • FAISS • ChromaDB • AWS Bedrock
 
 ### Web Development
-React • Bootstrap • Tailwind CSS • Node.js • Express.js • Flask • FastAPI • MySQL • MongoDB • SQLite • Redis
+- Frontend: React • Bootstrap • Tailwind CSS • Material-UI • EJS
+- Backend: Node.js • Express.js • Flask
+- Databases: MySQL • MongoDB • SQLite • Redis
 
-### Tools & Platforms
-Git • GitHub • Docker • Postman • VS Code
+### Developer Tools
+Docker • Git • GitHub • Postman
 
-### Problem Solving
-Data Structures • Algorithms • Competitive Programming • System Design fundamentals
+## Research
+- Published in IEEE CSPA 2026
+- DOI: https://doi.org/10.1109/CSPA68262.2026.11517886
 
-## Featured Projects
+## Extracurriculars
+- Former member of the University Basketball Team 🏀
+- Volunteered in the College Fest Disciplinary Committee 🎉
 
-- [nutrition-assistant](https://github.com/AdityaShenoy2302/nutrition-assistant) — AI-powered nutrition and health recommendation app
-- [food-order-system](https://github.com/AdityaShenoy2302/food-order-system) — full-stack food ordering platform
-- [price-predictor](https://github.com/AdityaShenoy2302/price-predictor) — data-driven price prediction project
+## GitHub Stats
 
-## Research & Publication
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaShenoy2302&show_icons=true&theme=radical&hide_border=true" alt="Aditya's GitHub Stats" />
+</p>
 
-- Published a research paper in the IEEE CSPA 2026 conference
-- DOI: [10.1109/CSPA68262.2026.11517886](https://doi.org/10.1109/CSPA68262.2026.11517886)
-
-## Highlights
-
-- Built and experimented with GenAI and RAG-inspired systems
-- Worked with LLM tools, vector databases, and AI application workflows
-- Developed full-stack web apps using modern frontend and backend stacks
-- Continuously improving DSA skills and software engineering fundamentals
-
-## Connect With Me
-
-- LinkedIn: [aditya-shenoy-425661253](https://www.linkedin.com/in/aditya-shenoy-425661253/)
-- GitHub: [AdityaShenoy2302](https://github.com/AdityaShenoy2302)
-- Email: [adityashenoy2004@gmail.com](mailto:adityashenoy2004@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaShenoy2302&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ## LeetCode
+I actively solve problems on LeetCode to strengthen my Data Structures and Algorithms skills.
 
-I actively practice Data Structures and Algorithms on LeetCode to sharpen problem-solving abilities and improve my technical thinking.
+- Profile: https://leetcode.com/AdityaShenoy2302
 
-- Profile: [leetcode.com/AdityaShenoy2302](https://leetcode.com/AdityaShenoy2302)
+## Connect
+- Email: adityashenoy2004@gmail.com
+- LinkedIn: https://linkedin.com/in/aditya-shenoy-425661253
+- GitHub: https://github.com/AdityaShenoy2302
 
-Thanks for visiting my profile — feel free to explore my repositories and connect for collaboration or opportunities.
+Thanks for stopping by! Feel free to explore my repositories and connect with me.
