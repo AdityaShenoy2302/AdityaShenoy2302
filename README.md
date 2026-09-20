@@ -1,12 +1,6 @@
 # Aditya Shenoy
 
 <p align="center">
-  <a href="https://linkedin.com/in/aditya-shenoy" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/AdityaShenoy2302" target="_blank">GitHub</a> •
-  <a href="mailto:adityashenoy2004@gmail.com">Email</a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI+Software+Engineer;Full-Stack+Developer;ML+Systems+Builder;Backend+Engineer" alt="Typing SVG" />
 </p>
 
@@ -59,24 +53,6 @@ IEEE · May 2026
 
 - Fine-tuned YOLOv8x on a custom dataset of 950+ annotated images and deployed it with a ZED stereo vision camera to build a real-time speed breaker and rumble strip detection system. Achieved 93.1% mAP@50 at 30 FPS, with robust detection across varying lighting and road conditions.
 - DOI: [10.1109/CSPA68262.2026.11517886](https://doi.org/10.1109/CSPA68262.2026.11517886)
-
-## Projects
-
-### Scalable URL Shortener
-Node.js, Express.js, MongoDB, Redis, Docker
-
-- Designed a distributed URL shortening service supporting high-throughput redirects through Redis-backed caching and collision-resistant short code generation.
-- Implemented cache-aside architecture and analytics tracking, reducing average redirect latency by 60% under load testing.
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaShenoy2302&show_icons=true&theme=radical&hide_border=true" alt="Aditya Shenoy GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaShenoy2302&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ## Contact
 
